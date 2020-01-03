@@ -1,0 +1,8 @@
+F:\Python2Csharp\P2C\bin\Debug\P2C.exe.config
+F:\Python2Csharp\P2C\bin\Debug\P2C.exe
+F:\Python2Csharp\P2C\bin\Debug\P2C.pdb
+F:\Python2Csharp\P2C\bin\Debug\System.Diagnostics.Process.dll
+F:\Python2Csharp\P2C\obj\Debug\P2C.csprojAssemblyReference.cache
+F:\Python2Csharp\P2C\obj\Debug\P2C.csproj.CopyComplete
+F:\Python2Csharp\P2C\obj\Debug\P2C.exe
+F:\Python2Csharp\P2C\obj\Debug\P2C.pdb
